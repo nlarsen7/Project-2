@@ -1,3 +1,6 @@
+//Nicholas Larsen
+//March 10, 2020
+//Plays the game of Pig 
 package main
 
 import (
